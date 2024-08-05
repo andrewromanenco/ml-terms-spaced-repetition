@@ -1,0 +1,3 @@
+
+Synonym for [[label|label]].
+

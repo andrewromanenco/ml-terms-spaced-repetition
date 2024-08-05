@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "217bcf458929ed3a",
+    "type": "split",
+    "children": [
+      {
+        "id": "956aac854524406f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "857e208bb80e4bc0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "df40c015a473a64d",
+    "type": "split",
+    "children": [
+      {
+        "id": "54e84f5d6e623c42",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce11f2750347d654",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "704de4b0e917f71a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#df",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0c83d0b59c3ed7d8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0ad474374c2cd954",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa296ed2922cbf17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d209c158d5d3d35e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "42a8fa219cae325e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f554dcfb4d1062e5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4a90436b81937937",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-simply-spaced:Simply spaced": false
+    }
+  },
+  "active": "857e208bb80e4bc0",
+  "lastOpenFiles": [
+    "AUC (Area under the ROC curve).md",
+    "ROC (receiver operating characteristic) Curve.md",
+    "few-shot prompting.md",
+    "images/staged-training.png",
+    "images/sigmoid.svg",
+    "images/self-attention.png",
+    "images/root.png",
+    "images/relu.svg",
+    "images/nonconvex_set.png",
+    "images/nonconvex_function.svg",
+    "images/non-binary-conditions.png",
+    "images/node.png",
+    "images/k-folds.png",
+    "images",
+    "in-context learning.md",
+    "few-shot learning.md",
+    "embedding space.md",
+    "latent space.md",
+    "zero-shot prompting.md",
+    "zero-shot learning.md",
+    "word embedding.md",
+    "wisdom of the crowd.md",
+    "width.md",
+    "wide model.md",
+    "weighted sum.md",
+    "weight.md",
+    "vector.md",
+    "variational autoencoder (VAE).md",
+    "variable importances.md",
+    "vanishing gradient problem.md",
+    "value imputation.md",
+    "validation.md",
+    "validation set.md",
+    "validation loss.md",
+    "user matrix.md",
+    "upweighting.md",
+    "uplift modeling.md",
+    "ZSpacedRepetition/d026aab92971bdae02cfa583967309b3acba14f60033154bfd03ad7296d423a0.json",
+    "ZSpacedRepetition/3edcd9ea57efce482f288560eb80a17525540fa290a93fdf3821b27bc6032a3a.json",
+    "ZSpacedRepetition/007f6ecb126bb139bc37179c147b01bb9e608a5385ab255e52706f784e79fa36.json",
+    "ZSpacedRepetition/4e26ff68d5d92ac05e3fd5501f1b3f46ede785ee25eb688cb62953e381fcb73b.json",
+    "ZSpacedRepetition/8f1d66d2760e8b2b76d6050e7cfe605b3f3e44733c0bacf2b74c91e40c9d9bd0.json",
+    "ZSpacedRepetition/8a7e36257c65f527052874435018311fa86db6b0a579f25a2e61ca9652cdccf3.json",
+    "ZSpacedRepetition/9bb29cdd5b4b909680f3d9f86822035cd6b44757495978d7643b7affe0c28ef3.json",
+    "ZSpacedRepetition/c2bf7494cb6ae2eebfc7f15974db11ae1afef2e0197d5329fb53ad76befb9050.json",
+    "ZSpacedRepetition/3db5b62a66552c3fb0122a606f89d91bd052ab11333e3cef10a80980db8f7c7d.json",
+    "Untitled.canvas"
+  ]
+}

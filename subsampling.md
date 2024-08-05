@@ -1,0 +1,4 @@
+#image
+
+See [[pooling|pooling]].
+

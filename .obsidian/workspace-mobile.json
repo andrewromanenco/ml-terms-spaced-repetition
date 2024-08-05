@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "9413835e5b6e50a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "e56971055e8c7941",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "045cb26308c3cde0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a2b6b620abe5c68d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ff11ba6a898c4f4f",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "3327278373022b09",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "c1fcfd68e41ab464",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "ca6f9b2663b88823",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "right": {
+    "id": "a5b611a79462a307",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "54a8c6a103cffcab",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "c994181407511822",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "5798d89a7ce4df5b",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-simply-spaced:Simply spaced": false
+    }
+  },
+  "active": "045cb26308c3cde0",
+  "lastOpenFiles": [
+    "ZSpacedRepetition/d026aab92971bdae02cfa583967309b3acba14f60033154bfd03ad7296d423a0.json",
+    "ZSpacedRepetition/3edcd9ea57efce482f288560eb80a17525540fa290a93fdf3821b27bc6032a3a.json",
+    "ZSpacedRepetition/4e26ff68d5d92ac05e3fd5501f1b3f46ede785ee25eb688cb62953e381fcb73b.json",
+    "ZSpacedRepetition/8f1d66d2760e8b2b76d6050e7cfe605b3f3e44733c0bacf2b74c91e40c9d9bd0.json",
+    "ZSpacedRepetition/007f6ecb126bb139bc37179c147b01bb9e608a5385ab255e52706f784e79fa36.json",
+    "Untitled.canvas",
+    "ZSpacedRepetition/7076067c2111fa244ef8acc7a89de222ba01b221c46bce6282b5d27dfa641003.json",
+    "ZSpacedRepetition/9bb29cdd5b4b909680f3d9f86822035cd6b44757495978d7643b7affe0c28ef3.json",
+    "ZSpacedRepetition/8a7e36257c65f527052874435018311fa86db6b0a579f25a2e61ca9652cdccf3.json",
+    "ZSpacedRepetition/8a675ead92f0020d39d55b5b9709286c4db0dac39ffb469d9dd1014c4e2c87c5.json",
+    "ZSpacedRepetition/22095e40503378817521a5e22fb72534456334b7e7f6cb311b6e5a740d9fd816.json",
+    "ZSpacedRepetition/3db5b62a66552c3fb0122a606f89d91bd052ab11333e3cef10a80980db8f7c7d.json",
+    "temperature.md",
+    "retrieval-augmented generation (RAG).md",
+    "RAG.md"
+  ]
+}

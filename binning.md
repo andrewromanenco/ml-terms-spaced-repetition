@@ -1,0 +1,3 @@
+
+Synonym for [[bucketing|bucketing]].
+

@@ -1,0 +1,11 @@
+{
+	"id": "obsidian-simply-spaced",
+	"name": "Simply spaced",
+	"version": "1.0.1",
+	"minAppVersion": "0.15.0",
+	"description": "(BETA) Spaced repetiotion based on SM-2 with extra randomization in intervals. Git friendly progress tracking.",
+	"author": "Andrew Romanenco",
+	"authorUrl": "https://github.com/andrewromanenco/obsidian-simply-spaced",
+	"fundingUrl": "https://github.com/andrewromanenco/obsidian-simply-spaced",
+	"isDesktopOnly": false
+}
